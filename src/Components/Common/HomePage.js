@@ -26,16 +26,20 @@ const HomePage = () => {
           // padding: '20px'
         }}>
           <div className='each_div'>
-            <img src='/images/Background.png' />
+            <img src='/images/govtinfo.png' />
+            <p>সরকারি তথ্য</p>
           </div>
           <div className='each_div'>
-            <img src='/images/Background.png' />
+            <img src='/images/medicalinfo.png' />
+            <p>স্বাস্থ্য সেবা তথ্য</p>
           </div>
           <div className='each_div'>
-            <img src='/images/Background.png' />
+            <img src='/images/policeinfo.png' />
+            <p>পুলিশের তথ্য</p>
           </div>
           <div className='each_div'>
-            <img src='/images/Background.png' />
+            <img src='/images/fireinfo.png' />
+            <p>ফায়ার সার্ভিসের তথ্য</p>
           </div>
         </div>
         <div style={{
@@ -43,16 +47,20 @@ const HomePage = () => {
           // padding: '20px'
         }}>
           <div className='each_div'>
-            <img src='/images/Background.png' />
+            <img src='/images/bankinfo.png' />
+            <p>ব্যাংকের তথ্য</p>
           </div>
           <div className='each_div'>
-            <img src='/images/Background.png' />
+            <img src='/images/agriinfo.png' />
+            <p>কৃষির তথ্য</p>
           </div>
           <div className='each_div'>
-            <img src='/images/Background.png' />
+            <img src='/images/statisticsinfo.png' />
+            <p>পরিসংখ্যানের তথ্য</p>
           </div>
           <div className='each_div'>
-            <img src='/images/Background.png' />
+            <img src='/images/fishinfo.png' />
+            <p>মৎস্য গবেষণা তথ্য</p>
           </div>
         </div>
       </div>
